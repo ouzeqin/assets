@@ -108,7 +108,7 @@
         "name": "孤独患者",
         "artistsname": "陈奕迅",
         "picurl": "http://p2.music.126.net/Po0tJTtv4aBaYozWlnojHg==/18546562139313276.jpg",
-        "url": "assets/mp3/孤独患者_陈奕迅.mp3",
+        "url": "https://ouzeqin.github.io/assets/mp3/孤独患者_陈奕迅.mp3",
         "musicDuration": "04:31"
     },
     {
@@ -158,21 +158,5 @@
         "picurl": "http://p2.music.126.net/SxtseFx6E4yP4o_PlWLPhA==/109951168652317597.jpg",
         "url": "https://ouzeqin.github.io/assets/mp3/Self Love_Metro Boomin_Coi Leray.mp3",
         "musicDuration": "03:09"
-    }
-    {
-        "id": "21",
-        "name": "喜帖街",
-        "artistsname": "谢安琪",
-        "picurl": "http://p2.music.126.net/dLkalW4CyC6hAZQS6xXFeA==/109951163649564629.jpg",
-        "url": "assets/mp3/喜帖街_谢安琪.mp3",
-        "musicDuration": "03:31"
-    },
-    {
-        "id": "22",
-        "name": "I Miss You",
-        "artistsname": "Czarina",
-        "picurl": "http://p1.music.126.net/6lqe4l-8zh9T4IgXGPm31w==/109951164378233402.jpg",
-        "url": "https://ouzeqin.github.io/assets/mp3/I Miss You_Czarina.mp3",
-        "musicDuration": "03:49"
     }
 ]
