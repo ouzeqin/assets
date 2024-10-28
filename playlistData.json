@@ -1,6 +1,166 @@
 [
     {
-        "id": "",
+        "id": "1",
+        "name": "泡沫",
+        "artistsname": "G.E.M.邓紫棋",
+        "picurl": "http://p2.music.126.net/3XEICRFzQPrHPUMD0xm1Jw==/109951163069323980.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/泡沫_G.E.M.邓紫棋.mp3",
+        "musicDuration": "04:18"
+    },
+    {
+        "id": "2",
+        "name": "【FREE】lucky",
+        "artistsname": "Salder4cash",
+        "picurl": "http://p2.music.126.net/QJoBtToXBScsEnWfZZa6fw==/109951164380775587.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/【FREE】lucky_Salder4cash.mp3",
+        "musicDuration": "02:37"
+    },
+    {
+        "id": "3",
+        "name": "Faded",
+        "artistsname": "ZHU",
+        "picurl": "http://p2.music.126.net/h3c-7IdU6A8puSVYhI4wmQ==/2888417048740793.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/Faded_ZHU.mp3",
+        "musicDuration": "03:53"
+    },
+    {
+        "id": "4",
+        "name": "Landslide",
+        "artistsname": "Oh Wonder",
+        "picurl": "http://p2.music.126.net/tMxtB-0f2b0IoFZrBwKGTw==/109951167002309704.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/Landslide_Oh Wonder.mp3",
+        "musicDuration": "03:28"
+    },
+    {
+        "id": "5",
+        "name": "Be What You Wanna Be",
+        "artistsname": "Darin",
+        "picurl": "http://p1.music.126.net/TymAhk2vlsAW10T054d2Qw==/109951165994365993.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/Be What You Wanna Be_Darin.mp3",
+        "musicDuration": "03:30"
+    },
+    {
+        "id": "6",
+        "name": "放空",
+        "artistsname": "大籽/Lil E/A1 TRIP",
+        "picurl": "http://p2.music.126.net/ocVnhvD-nXHKEM3TvBUZsw==/109951165931493179.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/放空_大籽_Lil E_A1 TRIP.mp3",
+        "musicDuration": "02:30"
+    },
+    {
+        "id": "7",
+        "name": "红",
+        "artistsname": "罗言",
+        "picurl": "http://p1.music.126.net/G-inyKjA-jO5MuOuV3g7Pg==/109951167027986653.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/红_罗言.mp3",
+        "musicDuration": "02:41"
+    },
+    {
+        "id": "8",
+        "name": "红色高跟鞋",
+        "artistsname": "蔡健雅",
+        "picurl": "http://p1.music.126.net/jJOaqlez9x5VofjgB7B_Bw==/109951166195459631.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/红色高跟鞋_蔡健雅.mp3",
+        "musicDuration": "03:26"
+    },
+    {
+        "id": "9",
+        "name": "After Hours",
+        "artistsname": "The Weeknd",
+        "picurl": "http://p2.music.126.net/A0rz1Pha3lzyVcFI2N6jWA==/109951164820868142.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/After Hours_The Weeknd.mp3",
+        "musicDuration": "06:01"
+    },
+    {
+        "id": "10",
+        "name": "与我无关",
+        "artistsname": "阿冗",
+        "picurl": "http://p1.music.126.net/x-jReyGkM5OTKUEtTqXGoA==/109951164597332931.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/与我无关_阿冗.mp3",
+        "musicDuration": "04:00"
+    },
+    {
+        "id": "11",
+        "name": "罗生门（Follow）",
+        "artistsname": "梨冻紧/Wiz_H张子豪",
+        "picurl": "http://p2.music.126.net/yN1ke1xYMJ718FiHaDWtYQ==/109951165076380471.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/罗生门（Follow）_梨冻紧_Wiz_H张子豪.mp3",
+        "musicDuration": "04:03"
+    },
+    {
+        "id": "12",
+        "name": "我只能离开",
+        "artistsname": "颜人中",
+        "picurl": "http://p2.music.126.net/5GPFbTQU-kW57PGv_7LeBw==/109951164440649436.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/我只能离开_颜人中.mp3",
+        "musicDuration": "03:50"
+    },
+    {
+        "id": "13",
+        "name": "起风了",
+        "artistsname": "买辣椒也用券",
+        "picurl": "http://p2.music.126.net/diGAyEmpymX8G7JcnElncQ==/109951163699673355.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/起风了_买辣椒也用券.mp3",
+        "musicDuration": "05:25"
+    },
+    {
+        "id": "14",
+        "name": "孤独患者",
+        "artistsname": "陈奕迅",
+        "picurl": "http://p2.music.126.net/Po0tJTtv4aBaYozWlnojHg==/18546562139313276.jpg",
+        "url": "assets/mp3/孤独患者_陈奕迅.mp3",
+        "musicDuration": "04:31"
+    },
+    {
+        "id": "15",
+        "name": "APT.",
+        "artistsname": "ROSÉ/Bruno Mars",
+        "picurl": "http://p2.music.126.net/t47xJ6AwOv9qOQ51PZoiPw==/109951170052324935.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/APT._ROSÉ_Bruno Mars.mp3",
+        "musicDuration": "02:49"
+    },
+    {
+        "id": "16",
+        "name": "Insomnia (불면증)",
+        "artistsname": "辉星",
+        "picurl": "http://p2.music.126.net/yFf0on6sHhZa8pnnAt30YA==/109951169005309111.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/Insomnia (불면증)_辉星.mp3",
+        "musicDuration": "03:26"
+    },
+    {
+        "id": "17",
+        "name": "Mood",
+        "artistsname": "24kGoldn/iann dior",
+        "picurl": "http://p2.music.126.net/LfAiSYcf5FLgfvVtLzN77w==/109951165165797187.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/Mood_24kGoldn_iann dior.mp3",
+        "musicDuration": "02:20"
+    },
+    {
+        "id": "18",
+        "name": "STAY",
+        "artistsname": "The Kid LAROI",
+        "picurl": "http://p2.music.126.net/e5cvcdgeosDKTDrkTfZXnQ==/109951166155165682.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/STAY_The Kid LAROI_Justin Bieber.mp3",
+        "musicDuration": "02:21"
+    },
+    {
+        "id": "19",
+        "name": "小半",
+        "artistsname": "陈粒",
+        "picurl": "http://p1.music.126.net/HQxTggMCB7AHUXN-ZFEtmA==/1371091013186741.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/小半_陈粒.mp3",
+        "musicDuration": "04:57"
+    },
+    {
+        "id": "20",
+        "name": "Self Love",
+        "artistsname": "Metro Boomin",
+        "picurl": "http://p2.music.126.net/SxtseFx6E4yP4o_PlWLPhA==/109951168652317597.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/Self Love_Metro Boomin_Coi Leray.mp3",
+        "musicDuration": "03:09"
+    }
+    {
+        "id": "21",
         "name": "喜帖街",
         "artistsname": "谢安琪",
         "picurl": "http://p2.music.126.net/dLkalW4CyC6hAZQS6xXFeA==/109951163649564629.jpg",
@@ -8,7 +168,7 @@
         "musicDuration": "03:31"
     },
     {
-        "id": "",
+        "id": "22",
         "name": "I Miss You",
         "artistsname": "Czarina",
         "picurl": "http://p1.music.126.net/6lqe4l-8zh9T4IgXGPm31w==/109951164378233402.jpg",
