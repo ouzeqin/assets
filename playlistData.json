@@ -174,5 +174,21 @@
         "picurl": "http://p1.music.126.net/6lqe4l-8zh9T4IgXGPm31w==/109951164378233402.jpg",
         "url": "https://ouzeqin.github.io/assets/mp3/I Miss You_Czarina.mp3",
         "musicDuration": "03:49"
+    },
+    {
+        "id": "23",
+        "name": "Hurt Me",
+        "artistsname": "Låpsley",
+        "picurl": "http://p1.music.126.net/x3EwBol8H0rVRAcq67IogA==/17824182998040041.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/Hurt Me_Låpsley.mp3",
+        "musicDuration": "03:51"
+    },
+    {
+        "id": "24",
+        "name": "Peaches",
+        "artistsname": "Justin Bieber/Daniel Caesar/Giveon",
+        "picurl": "http://p2.music.126.net/_d1i74E6x-zTTnEmdVjEwA==/109951165835207944.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/Peaches_Justin Bieber_Daniel Caesar_Giveon.mp3",
+        "musicDuration": "03:18"
     }
 ]
