@@ -1,10 +1,10 @@
 [
     {
         "id": "1",
-        "name": "泡沫",
+        "name": "多远都要在一起",
         "artistsname": "G.E.M.邓紫棋",
-        "picurl": "http://p2.music.126.net/3XEICRFzQPrHPUMD0xm1Jw==/109951163069323980.jpg",
-        "url": "https://ouzeqin.github.io/assets/mp3/泡沫_G.E.M.邓紫棋.mp3",
+        "picurl": "http://p1.music.126.net/kVwk6b8Qdya8oDyGDcyAVA==/1364493930777368.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/多远都要在一起_G.E.M.邓紫棋.mp3",
         "musicDuration": "04:18"
     },
     {
@@ -198,5 +198,45 @@
         "picurl": "https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_5.jpg?max_age=2592000",
         "url": "https://ouzeqin.github.io/assets/mp3/周杰伦 - 晴天.mp3",
         "musicDuration": "04:29"
+    },
+    {
+        "id": "26",
+        "name": "All Girls Are The Same",
+        "artistsname": "Juice WRLD",
+        "picurl": "http://p2.music.126.net/di5piIGtE69x_8dv4NuV1g==/109951163244465319.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/All Girls Are The Same_Juice WRLD.mp3",
+        "musicDuration": "02:45"
+    },
+    {
+        "id": "27",
+        "name": "泡沫",
+        "artistsname": "Swang多雷",
+        "picurl": "http://p1.music.126.net/IFk1HJuPAMkksz5FwgW5lA==/109951169294652175.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/泡沫_Swang多雷.mp3",
+        "musicDuration": "03:10"
+    },
+    {
+        "id": "28",
+        "name": "失眠飞行",
+        "artistsname": "接个吻，开一枪/沈以诚/薛黛霏",
+        "picurl": "http://p1.music.126.net/Bq6Io8lpY1l2HsQ28QKFlw==/109951164083996255.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/失眠飞行_接个吻，开一枪_沈以诚_薛黛霏.mp3",
+        "musicDuration": "03:27"
+    },
+    {
+        "id": "29",
+        "name": "Mine (Illenium Remix)",
+        "artistsname": "ILLENIUM/Phoebe Ryan",
+        "picurl": "http://p1.music.126.net/94Zjhb6ibXN9jpIjRQDbUw==/7762552092459017.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/Mine (Illenium Remix)_ILLENIUM_Phoebe Ryan.mp3",
+        "musicDuration": "04:09"
+    },
+    {
+        "id": "30",
+        "name": "在你的身边",
+        "artistsname": "盛哲",
+        "picurl": "http://p2.music.126.net/AYNBdRxJ8EdZo4xFjp7b4Q==/109951163191178425.jpg",
+        "url": "https://ouzeqin.github.io/assets/mp3/在你的身边_盛哲.mp3",
+        "musicDuration": "04:22"
     }
 ]
