@@ -186,9 +186,17 @@
     {
         "id": "24",
         "name": "Peaches",
-        "artistsname": "Justin Bieber/Daniel Caesar/Giveon",
+        "artistsname": "Justin Bieber",
         "picurl": "http://p2.music.126.net/_d1i74E6x-zTTnEmdVjEwA==/109951165835207944.jpg",
         "url": "https://ouzeqin.github.io/assets/mp3/Peaches_Justin Bieber_Daniel Caesar_Giveon.mp3",
         "musicDuration": "03:18"
+    },
+    {
+        "id": "25",
+        "name": "晴天",
+        "artistsname": "周杰伦",
+        "picurl": "https://y.qq.com/music/photo_new/T002R300x300M000000MkMni19ClKG_5.jpg?max_age=2592000",
+        "url": "https://ouzeqin.github.io/assets/mp3/周杰伦 - 晴天.mp3",
+        "musicDuration": "04:29"
     }
 ]
